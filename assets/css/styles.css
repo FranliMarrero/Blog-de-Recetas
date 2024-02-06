@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 248, 189);
+}
+
+a:hover {
+    transform: scale(1.08);
+    background-color: rgb(238, 121, 121);
+     border-radius: 3px;
+}
+
+.dropdown-menu {
+    background-color:  rgb(248, 164, 164);
+}
+
+
+.display-7  {
+    color: rgba(241, 0, 0, 0.589);
+}
+
+.display-7:hover {
+    transform: scale(1.2);
+}
+
+.carousel-control-prev-icon {
+   background-color: black;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.card-container {
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+}
+
